@@ -12,30 +12,34 @@ And stop with same command.
 
 Other command.
 
-* `Execute cognitive-complexity-show`, execute only once.
-* `Clear cognitive-complexity-show`, clear all.
+- `Execute cognitive-complexity-show`, execute only once.
+- `Clear cognitive-complexity-show`, clear all.
 
 ## Release Notes
 
+### 0.0.6
+
+- Update cognitive complexity analyse to more modern code
+
 ### 0.0.5
 
-* Fix cannot stop by toggle.
+- Fix cannot stop by toggle.
 
 ### 0.0.4
 
-* Default value of toggle state is false.
+- Default value of toggle state is false.
 
 ### 0.0.3
 
-* Build error fix.
+- Build error fix.
 
 ### 0.0.2
 
-* Feature watch mode.
-* Display number first.
+- Feature watch mode.
+- Display number first.
 
 ### 0.0.1
 
-* Initial release of cognitive-complexity-show.
+- Initial release of cognitive-complexity-show.
 
 **Enjoy!**
